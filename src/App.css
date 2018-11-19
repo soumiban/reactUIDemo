@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url("webPage.jpg");
 }
 
 .App-logo {
@@ -18,10 +19,28 @@
   color: white;
 }
 
+
+
 .App-link {
   color: #61dafb;
 }
 
+.container {
+  position: fixed;
+  top: 20%;
+  left: 40%;
+  margin-top: -50px;
+  margin-left: -100px;
+ 
+}
+ 
+.container > h1 {
+  color: white;
+}
+
+.container {
+  color: white;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
