@@ -49,3 +49,32 @@
     transform: rotate(360deg);
   }
 }
+
+.button__container {
+  margin-top: 200px;
+  text-align: center;
+  
+}
+.display {
+  background-color:rgb(24, 172, 192);
+  border: none;
+  color: darkblue;
+}
+.text {
+  background-color:rgb(24, 172, 192);
+  border: none;
+  color: darkblue;
+  
+  border: none;
+
+  
+}
+.button {
+  background-color:rgb(24, 172, 192);
+  border: none;
+  color: darkblue;
+  font-size: 16px;
+  height: 40px;
+  width: 200px;
+ 
+}
